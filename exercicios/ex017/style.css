@@ -1,0 +1,10 @@
+@charset "UTF-8"; 
+
+body {
+    font: italic bolder 1em Arial sans-serif;
+    /*    font-family: monospace;
+    font-size: 16px;
+    font-style: normal;
+    text-decoration: none;
+*/
+}

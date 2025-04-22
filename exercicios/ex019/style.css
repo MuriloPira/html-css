@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(168, 245, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+ color: rgb(1, 36, 53);
+}
+
+h1#principal {
+ color: blueviolet; 
+ text-align: center;
+}
+
+h2 {
+ color: rgb(58, 68, 73);
+}
+
+.rola {
+    color: brown;
+}
+
+.xeca {
+    font-style: italic;
+} 

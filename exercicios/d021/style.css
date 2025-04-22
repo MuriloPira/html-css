@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: android;
+    src: url(fontes/idroid.otf);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(6, 202, 6, 0.774);
+}
+
+h1 {
+    font-family: android, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    font-family: android, sans-serif;
+    margin: 20px;
+}
+
+h3 {
+    font-family: android, sans-serif;
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+header {
+    background-color: rgb(0, 255, 0);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+main {
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgba(6, 202, 6, 0.774);
+}
+
+.cabecario {
+    text-align: center;
+}
+
+.extra {
+    background-color: aqua;
+}
+
+.youtube {
+    margin: 10px;
+}
+
+.menu {
+    background-color: aqua;
+}
+
+img {
+    margin: 10px;
+}
